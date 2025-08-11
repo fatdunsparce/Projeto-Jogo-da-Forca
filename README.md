@@ -23,10 +23,10 @@ JavaScript
 # Estrutura de arquivos
 
 /meu-jogo-da-forca
-│── index.html     # Estrutura da página
-│── style.css      # Estilos visuais
-│── script.js      # Lógica do jogo
-│── README.md      # Este arquivo
+│── index.html
+│── style.css
+│── script.js
+│── README.md
 
 # Como executar
 
