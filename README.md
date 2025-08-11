@@ -31,7 +31,7 @@ JavaScript
 # Como executar
 
 1. Baixe ou clone este repositório:
-git clone https://github.com/seu-usuario/jogo-da-forca.git
+git clone https://github.com/fatdunsparce/Projeto-Jogo-da-Forca.git
 
 2. Abra o arquivo index.html no navegador.
 3. Comece a jogar.
